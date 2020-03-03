@@ -22,5 +22,3 @@ def speak_to_grandma(pharse)
   end
 
 end
-speak_to_grandma(pharse)
-pharse

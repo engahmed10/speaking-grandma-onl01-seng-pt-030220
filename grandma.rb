@@ -19,6 +19,10 @@ def speak_to_grandma(pharse)
     pharse ="HUH?! SPEAK UP, SONNY!"
   elsif pharse ="Hi!"
     pharse ="HUH?! SPEAK UP, SONNY!"
+  elsif pharse ="WHAT DID YOU EAT TODAY?"
+    pharse ="NO, NOT SINCE 1938!"
+  elsif pharse ="WHAT?"
+    pharse ="NO, NOT SINCE 1938!"
   else
   pharse =  pharse.upcase
   end

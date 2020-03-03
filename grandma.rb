@@ -15,6 +15,10 @@ pharse = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(pharse)
   if pharse == pharse.upcase
      pharse ="I LOVE YOU TOO PUMPKIN!"
+  elseif pharse !== pharse.upcase
+    pharse "HUH?! SPEAK UP, SONNY!"
+  else
+  pharse =  pharse.upcase
   end
 
 end

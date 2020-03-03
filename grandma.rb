@@ -14,9 +14,7 @@
 #phrase = "'I LOVE YOU GRANDMA!"
 def speak_to_grandma(pharse)
   if pharse == pharse.upcase
-    return pharse
-
-
+     pharse
   end
 
 end

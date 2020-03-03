@@ -20,6 +20,6 @@ def speak_to_grandma(pharse)
   elsif pharse == "WHAT?"
     pharse = "NO, NOT SINCE 1938!"
   else
-    pharse ="NO, NOT SINCE 1938!"
+    pharse ="HUH?! SPEAK UP, SONNY!"
 end
 end

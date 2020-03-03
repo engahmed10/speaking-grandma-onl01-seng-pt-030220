@@ -22,6 +22,6 @@ def speak_to_grandma(pharse)
   elsif pharse == "WHAT DID YOU EAT TODAY?'"
     pharse ="NO, NOT SINCE 1938!"
   elsif pharse == 'WHAT?'
-    pharse ="NO, NOT SINCE 1938!"
+    pharse = "NO, NOT SINCE 1938!"
 end
 end

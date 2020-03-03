@@ -14,7 +14,9 @@
 pharse = "I LOVE YOU GRANDMA!"
 def speak_to_grandma(pharse)
   if pharse == pharse.upcase
-    puts pharse
+     pharse
   end
 
 end
+speak_to_grandma(pharse)
+pharse

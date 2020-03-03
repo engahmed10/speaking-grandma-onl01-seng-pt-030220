@@ -20,6 +20,6 @@ def speak_to_grandma(pharse)
   elsif pharse ==pharse.downcase
     pharse = "NO, NOT SINCE 1938!"
   else
-    pharse = "NO, NOT SINCE 1938!"    
+    pharse = "NO, NOT SINCE 1938!"
 end
 end

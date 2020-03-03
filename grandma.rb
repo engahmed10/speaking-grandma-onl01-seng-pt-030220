@@ -15,11 +15,11 @@
 def speak_to_grandma(pharse)
   if pharse == pharse.upcase
      pharse ="I LOVE YOU TOO PUMPKIN!"
-  elsif pharse =="Hi Nana, how are you?"
+  elsif pharse == pharse.downcase
     pharse = "HUH?! SPEAK UP, SONNY!"
-  elsif pharse =="Hi!"
-    pharse = "HUH?! SPEAK UP, SONNY!"
-  else
+  elsif pharse ==pharse.downcase
     pharse = "NO, NOT SINCE 1938!"
+  else
+    pharse = "NO, NOT SINCE 1938!"    
 end
 end

@@ -15,7 +15,7 @@
 def speak_to_grandma(pharse)
   if pharse == pharse.upcase
     return pharse
-  
+
 
   end
 

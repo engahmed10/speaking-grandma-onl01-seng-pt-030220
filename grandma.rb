@@ -17,7 +17,7 @@ def speak_to_grandma(pharse)
      pharse ="I LOVE YOU TOO PUMPKIN!"
   elsif pharse =="Hi Nana, how are you?"
     pharse =="HUH?! SPEAK UP, SONNY!"
-  elsif pharse ="Hi!"
+  elsif pharse == "Hi!"
     pharse ="HUH?! SPEAK UP, SONNY!"
   elsif pharse == "WHAT DID YOU EAT TODAY?"
     pharse ="NO, NOT SINCE 1938!"

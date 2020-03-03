@@ -11,7 +11,7 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-pharse ='I LOVE YOU GRANDMA!'
-def speak_to_grandma(pharse)
+phrase ='I LOVE YOU GRANDMA!'
+def speak_to_grandma(phrase)
   puts "#{phrase}"
 end

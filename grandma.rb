@@ -18,6 +18,6 @@ def speak_to_grandma(pharse)
   elsif pharse == pharse.capitalize
     pharse = "HUH?! SPEAK UP, SONNY!"
   else
-    pharse ="NO, NOT SINCE 1938!"
+    pharse ="HUH?! SPEAK UP, SONNY!"
 end
 end
